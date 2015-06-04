@@ -12,7 +12,7 @@ title = "学科長挨拶"
 
 
 
-![wada](img/FireWada.jpg) ![wada](img/FireWada2.jpg) 
+![wada](img/greet/FireWada.jpg) ![wada](img/greet/FireWada2.jpg) 
 <div class="center">
 学科長　ファイヤー和田知久
 </div>
@@ -36,7 +36,7 @@ title = "学科長挨拶"
 |平成22～24年度 |  エンジニアリングデザイン教育プロジェクト開始|
 
 <div class="center">
-{{< img src="/img/lsi.jpg" >}}
+{{< img src="/img/greet/lsi.jpg" >}}
 2010年3月のLSIコンテスト発表会＠宜野湾コンベンションセンター　発表者は2年次学生
 </div>
 
@@ -48,9 +48,9 @@ title = "学科長挨拶"
 本学科のもう一つの大きな教育上の特色は，学生個人が問題解決能力を身につけるための実践的講義や，英語教育に重点を置いていることです．そのた めに，学外より，起業家や専門家を招いた講義や，共通教育の英語科目に加えて、英語力スキルアップのための学科独自の専門英語科目を開講しています。また，大学 院博士前期課程の語学試験（英語）はTOEFLを採用しています。
 
 <ul class="bxslider">
-  <li>{{< img src="/img/stay1.jpg" >}}</li>
-  <li>{{< img src="/img/stay2.jpg" >}}</li>
-  <li>{{< img src="/img/stay3.jpg" >}}</li>
+  <li>{{< img src="/img/greet/stay1.jpg" >}}</li>
+  <li>{{< img src="/img/greet/stay2.jpg" >}}</li>
+  <li>{{< img src="/img/greet/stay3.jpg" >}}</li>
 </ul>
 
 
