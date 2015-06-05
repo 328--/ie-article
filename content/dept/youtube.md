@@ -37,7 +37,7 @@ title = "学科公式チャンネル (Youtube)"
 {{< youtube 3_pTDKEOTkg >}}
 
 ### 6班
-{{ youtube aP71VJTq5xU >}}
+{{< youtube aP71VJTq5xU >}}
 
 ### 現代の身の回りの生活を支える情報技術
 {{< youtube PqE6zfc08Vc >}}
@@ -54,7 +54,7 @@ title = "学科公式チャンネル (Youtube)"
 ### キャリアウーマン
 {{< youtube PWeb3fHEIdI >}}
 
-#### 「情報工学科の半日」第1部 ソフトウェア技術 情報通信技術編
+### 「情報工学科の半日」第1部 ソフトウェア技術 情報通信技術編
 {{< youtube zdg6G5RsPQk >}}
 
 
