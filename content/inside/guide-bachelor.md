@@ -59,3 +59,10 @@ title = "修学の手引き"
 - [修学の手引きPDF版（H17/4/16)](pdf/guide-bachelor/tebiki2006-04-16.pdf)
 - [履修計画表（総合情報コース）](pdf/guide-bachelor/risyu-sougou-2005-06-29.pdf)
 - [履修計画表（計算工学コース）](pdf/guide-bachelor/risyu-keisan-2005-06-29.pdf)
+
+
+2005年度（H17年度）
+
+- [修学の手引き PDF版](pdf/guide-bachelor/tebiki2005-07-27.pdf)
+- [履修計画表（総合情報コース）](pdf/guide-bachelor/risyu-sougou-2005-06-29.pdf)
+- [履修計画表（計算工学コース）](pdf/guide-bachelor/risyu-keisan-2005-06-29.pdf)

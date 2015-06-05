@@ -33,10 +33,19 @@ title = "大学院入試情報"
 ## 修学の手引
 ここは琉球大学大学院理工学研究科で提供している「修学の手引き」に関する印刷配布版と，訂正・改訂内容をまとめたページです．最新情報はここを参照するようにしてください．
 
+2014年度（H26年度）
 
-2013年度[修学の手引きPDF(H25/04/01)](/pdf/tebiki-master-2013.pdf)
+ - [修学の手引きPDF(H26/04/11)](/pdf/guide-master/tebiki-master-2014.pdf)
 
-2012年度[修学の手引きPDF(H24/04/01)](/pdf/tebiki-master-2012.pdf) 
+2013年度（H25年度）
+
+ - [修学の手引きPDF(H25/04/01)](/pdf/guide-master/tebiki-master-2013.pdf)
+
+
+ 2012年度（H24年度）
+
+ - [修学の手引きPDF(H24/04/01)](/pdf/guide-master/tebiki-master-2012.pdf) 
+
 
 
 ## シラバス一覧
